@@ -2,7 +2,7 @@
 
 ## Bootcamp 2025
 - Атака Томпсона на компилятор TinyCC [evil-tinycc](https://github.com/ylab-nsu/evil-tinycc)
-- llvm-project-cdm-bc25(https://github.com/ylab-nsu/llvm-project-cdm-bc25)
+- [llvm-project-cdm-bc25](https://github.com/ylab-nsu/llvm-project-cdm-bc25)
 
 ## Зимняя школа 2025 "Программирование для RISC-V"
 
