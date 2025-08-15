@@ -1,5 +1,8 @@
 # Лаборатория разработки программного обеспечения и систем на кристалле ФИТ НГУ
 
+## Bootcamp 2025
+- Атака Томпсона на компилятор TinyCC [evil-tinycc](https://github.com/ylab-nsu/evil-tinycc) 
+
 ## Зимняя школа 2025 "Программирование для RISC-V"
 
 - Benchmark [ws25-benchmark](https://github.com/ylab-nsu/ws25-benchmark)
@@ -12,3 +15,6 @@
 - Исследовательское тестирование методом файзинга маршрутизатора BIRD [bird-fuzzing](https://github.com/ylab-nsu/bird-fuzzing)
 - Инструменты для быстрого перемножения плотных матриц на архитектуре x86 [matrix_tools](https://github.com/ylab-nsu/matrix_tools)
 - Python-библиотеки для имитации JA3-хеша [ja3-mocking](https://github.com/ylab-nsu/ja3-mocking)
+
+## Отдельные проекты лаборатории 
+- Инструменты для учебного проекта [Coco-de-Mer Processors](https://github.com/cdm-processors/)
