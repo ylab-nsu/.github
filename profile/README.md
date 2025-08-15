@@ -1,7 +1,8 @@
 # Лаборатория разработки программного обеспечения и систем на кристалле ФИТ НГУ
 
 ## Bootcamp 2025
-- Атака Томпсона на компилятор TinyCC [evil-tinycc](https://github.com/ylab-nsu/evil-tinycc) 
+- Атака Томпсона на компилятор TinyCC [evil-tinycc](https://github.com/ylab-nsu/evil-tinycc)
+- llvm-project-cdm-bc25(https://github.com/ylab-nsu/llvm-project-cdm-bc25)
 
 ## Зимняя школа 2025 "Программирование для RISC-V"
 
