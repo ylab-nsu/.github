@@ -2,7 +2,8 @@
 
 ## Bootcamp 2025
 - Атака Томпсона на компилятор TinyCC [evil-tinycc](https://github.com/ylab-nsu/evil-tinycc)
-- [llvm-project-cdm-bc25](https://github.com/ylab-nsu/llvm-project-cdm-bc25)
+- Улучшение компилятора LLVM для CDM-16 [llvm-project-cdm-bc25](https://github.com/ylab-nsu/llvm-project-cdm-bc25)
+- Фильтры для более эффективной упаковки исполняемых файлов на архитектуре RISC-V(private)[upx-filters](https://github.com/ylab-nsu/upx-filters)
 
 ## Зимняя школа 2025 "Программирование для RISC-V"
 
@@ -16,6 +17,7 @@
 - Исследовательское тестирование методом файзинга маршрутизатора BIRD [bird-fuzzing](https://github.com/ylab-nsu/bird-fuzzing)
 - Инструменты для быстрого перемножения плотных матриц на архитектуре x86 [matrix_tools](https://github.com/ylab-nsu/matrix_tools)
 - Python-библиотеки для имитации JA3-хеша [ja3-mocking](https://github.com/ylab-nsu/ja3-mocking)
+- Поддержка RISC-V в упаковщике исполняемых файлов UPX (private) [upx](https://github.com/ylab-nsu/upx)
 
 ## Отдельные проекты лаборатории 
 - Инструменты для учебного проекта [Coco-de-Mer Processors](https://github.com/cdm-processors/)
