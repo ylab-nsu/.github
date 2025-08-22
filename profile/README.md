@@ -1,7 +1,7 @@
 # Лаборатория разработки программного обеспечения и систем на кристалле ФИТ НГУ
 
 ## Темы студенческих проектов
-- [Реализация поддержки RISC-V в проекте UPX](https://github.com/ylab-nsu/.github/projects/upx.md)
+- [Реализация поддержки RISC-V в проекте UPX](https://github.com/ylab-nsu/.github/blob/main/projects/upx.md)
 
 ## Bootcamp 2025
 - Атака Томпсона на компилятор TinyCC [evil-tinycc](https://github.com/ylab-nsu/evil-tinycc)
