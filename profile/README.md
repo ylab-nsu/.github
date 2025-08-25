@@ -9,6 +9,9 @@
 - Улучшение компилятора LLVM для CDM-16 [llvm-project-cdm-bc25](https://github.com/ylab-nsu/llvm-project-cdm-bc25)
 - Фильтры для более эффективной упаковки исполняемых файлов на архитектуре RISC-V(private)[upx-filters](https://github.com/ylab-nsu/upx-filters)
 
+## Выпускные квалификационные работы(ВКР) 2025
+- [Проектирование и реализация удаленной системы тестирования и управления жизненным циклом элементов питания с целью стендовых испытаний](https://github.com/xDm1try/RBTS_firmware)
+
 ## Зимняя школа 2025 "Программирование для RISC-V"
 
 - Benchmark [ws25-benchmark](https://github.com/ylab-nsu/ws25-benchmark)
