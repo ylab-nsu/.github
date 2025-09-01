@@ -3,7 +3,7 @@
 ## Темы студенческих проектов
 - [Реализация поддержки RISC-V в проекте UPX](https://github.com/ylab-nsu/.github/blob/main/projects/upx.md)
 - [Развитие инстурментария учебного процессора Coco-de-Mer(CDM)](https://github.com/ylab-nsu/.github/blob/main/projects/cdm.md)
-- [Bootstrap]()
+- [Доверенный компилятор языка С](https://github.com/ylab-nsu/.github/blob/main/projects/bootstrap.md)
 - [Открытая платформа для обучения и запуска нейронных сетей](https://gitverse.ru/kolkir/adept)
 
 ## Bootcamp 2025
