@@ -11,9 +11,6 @@
 - Улучшение компилятора LLVM для CDM-16 [llvm-project-cdm-bc25](https://github.com/ylab-nsu/llvm-project-cdm-bc25)
 - Фильтры для более эффективной упаковки исполняемых файлов на архитектуре RISC-V(private)[upx-filters](https://github.com/ylab-nsu/upx-filters)
 
-## Выпускные квалификационные работы(ВКР) 2025
-- [Проектирование и реализация удаленной системы тестирования и управления жизненным циклом элементов питания с целью стендовых испытаний](https://github.com/xDm1try/RBTS_firmware)
-
 ## Зимняя школа 2025 "Программирование для RISC-V"
 
 - Benchmark [ws25-benchmark](https://github.com/ylab-nsu/ws25-benchmark)
@@ -21,6 +18,7 @@
 - Bootstrap [ws25-bootstrap](https://github.com/ylab-nsu/ws25-bootstrap)
 
 ## Прокты лаборатории 2024-2025
+- [Система тестирования и управления жизненным циклом элементов питания с целью стендовых испытаний](https://github.com/xDm1try/RBTS_firmware)
 - Сборка Доверенного компилятора [trusted-toolchain-docker](https://github.com/ylab-nsu/trusted-toolchain-docker)
 - Создание зараженного компилятора по схеме Томсона [evil-gcc](https://github.com/ylab-nsu/evil-gcc)
 - Исследовательское тестирование методом файзинга маршрутизатора BIRD [bird-fuzzing](https://github.com/ylab-nsu/bird-fuzzing)
