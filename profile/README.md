@@ -20,7 +20,6 @@
 ## Прокты лаборатории 2024-2025
 - [Система тестирования и управления жизненным циклом элементов питания с целью стендовых испытаний](https://github.com/xDm1try/RBTS_firmware)
 - Сборка Доверенного компилятора [trusted-toolchain-docker](https://github.com/ylab-nsu/trusted-toolchain-docker)
-- Создание зараженного компилятора по схеме Томсона [evil-gcc](https://github.com/ylab-nsu/evil-gcc)
 - Исследовательское тестирование методом файзинга маршрутизатора BIRD [bird-fuzzing](https://github.com/ylab-nsu/bird-fuzzing)
 - Инструменты для быстрого перемножения плотных матриц на архитектуре x86 [matrix_tools](https://github.com/ylab-nsu/matrix_tools)
 - Python-библиотеки для имитации JA3-хеша [ja3-mocking](https://github.com/ylab-nsu/ja3-mocking)
