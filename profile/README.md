@@ -17,7 +17,7 @@
 - Watermark [ws25-watermark](https://github.com/ylab-nsu/ws25-watermark)
 - Bootstrap [ws25-bootstrap](https://github.com/ylab-nsu/ws25-bootstrap)
 
-## Прокты лаборатории 2024-2025
+## Проекты лаборатории 2024-2025
 - [Система тестирования и управления жизненным циклом элементов питания с целью стендовых испытаний](https://github.com/xDm1try/RBTS_firmware)
 - Сборка Доверенного компилятора [trusted-toolchain-docker](https://github.com/ylab-nsu/trusted-toolchain-docker)
 - Исследовательское тестирование методом файзинга маршрутизатора BIRD [bird-fuzzing](https://github.com/ylab-nsu/bird-fuzzing)
