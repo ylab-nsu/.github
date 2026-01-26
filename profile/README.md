@@ -1,5 +1,13 @@
 # Лаборатория разработки программного обеспечения и систем на кристалле ФИТ НГУ
 
+## Зимний Bootcamp 2026
+- [Верификация алгоритма minigemm] (https://github.com/ylab-nsu/wb26-trust-minigemm/)
+- [Компилятор №1] ()
+- [Компилятор №2] ()
+- [IoT - ценники №1] ()
+- [IoT - ценники №2] ()
+- [IoT unit-тесты](https://github.com/ylab-nsu/wb26-iot-test)
+
 ## Темы студенческих проектов
 - [Реализация поддержки RISC-V в проекте UPX](https://github.com/ylab-nsu/.github/blob/main/projects/upx.md)
 - [Развитие инстурментария учебного процессора Coco-de-Mer(CDM)](https://github.com/ylab-nsu/.github/blob/main/projects/cdm.md)
