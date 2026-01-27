@@ -4,8 +4,8 @@
 - [Верификация алгоритма minigemm](https://github.com/ylab-nsu/wb26-trust-minigemm)
 - [Доработка ассемблера cocas](https://github.com/cdm-processors/cdm-devkit)
 - [Портирование ассемблера LLVM AS под CdM-16](https://github.com/ylab-nsu/cdm16-llvm-neo)
-- [IoT - ценники №1]()
-- [IoT - ценники №2]()
+- [IoT - Умный ценник, команда PvZ](https://github.com/ylab-nsu/wb26-pvz-price-tag)
+- [IoT - Умный ценник, команда Smart](https://github.com/ylab-nsu/wb26-smart-price-tag)
 - [IoT unit-тесты](https://github.com/ylab-nsu/wb26-iot-test)
 
 ## Темы студенческих проектов
