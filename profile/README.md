@@ -1,5 +1,11 @@
 # Лаборатория разработки программного обеспечения и систем на кристалле ФИТ НГУ
 
+## Летний системный Bootcamp 2026
+- [Анализ производительности RISC-V SBC](https://github.com/ylab-nsu/sb26-performance-analysis)
+- [Верификация алгоритма minigemm]()
+- [Разработка ядра операционной системы на языке Rust](https://github.com/ylab-nsu/wb26-kernel-prototype)
+- [Автономное устройство сбора телеметрии]()
+
 ## Зимний Bootcamp 2026
 - [Верификация алгоритма minigemm](https://github.com/ylab-nsu/wb26-trust-minigemm)
 - [Доработка ассемблера cocas](https://github.com/cdm-processors/cdm-devkit)
