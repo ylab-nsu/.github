@@ -2,9 +2,9 @@
 
 ## Летний системный Bootcamp 2026
 - [Анализ производительности RISC-V SBC](https://github.com/ylab-nsu/sb26-performance-analysis)
-- [Верификация алгоритма minigemm]()
+- [Верификация алгоритма minigemm](https://github.com/ylab-nsu/sb26-trust-minigemm)
 - [Разработка ядра операционной системы на языке Rust](https://github.com/ylab-nsu/wb26-kernel-prototype)
-- [Автономное устройство сбора телеметрии]()
+- [Автономное устройство сбора телеметрии](https://github.com/ylab-nsu/sb26-snmp-agent)
 
 ## Зимний Bootcamp 2026
 - [Верификация алгоритма minigemm](https://github.com/ylab-nsu/wb26-trust-minigemm)
